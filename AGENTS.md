@@ -15,3 +15,4 @@
   - git reset --hard $(cat /tmp/orig_work.txt) # NB: reset to the LOCAL branch, do NOT fetch
   - git stash pop
   - Resolve conflicts if necessary
+авывава
